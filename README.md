@@ -1,0 +1,4 @@
+# IMPLEMENTATION OF THE QUICK SORT ALGORITHM IN AN OBJECT-ORIENTED PROGRAMMING APPLICATION BASED ON PYTHON AND MYSQL WORKBENCH
+(Case Study: Other Long-Term Receivables Management System Application)
+
+This study aims to develop a Python-based Other Long-Term Receivables Management System using Tkinter as the GUI and MySQL Workbench for database administration. The system development follows an incremental approach with two main stages: CRUD operations for basic data management and data visualization for general information. This research focuses on implementing the Quick Sort algorithm within an Object-Oriented Programming (OOP) application. System testing using the White-box Testing method with Python’s Unittest demonstrates functional consistency and logical accuracy. The system was tested on 108 cases of Other Long-Term Receivables and successfully provided improved usability, data accuracy, access speed, and information visualization.
